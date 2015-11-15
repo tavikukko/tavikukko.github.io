@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Setting Up Blog In Github Pages With Jekyll
+comments: true
 ---
 
 Followed this [blog](http://www.hakshak.com/2015/01/04/learning_github.io_jekyll_and_poole/)
