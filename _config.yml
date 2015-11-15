@@ -7,7 +7,7 @@ relative_permalinks: true
 # Setup
 title:               Fire It App Blog
 tagline:             'things to rememeber to get fired up in the future'
-description:         'things to rememeber to get fired up in the future. Theme made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+description:         'Things to rememeber to get fired up in the future. Theme made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
 url:                 http://tavikukko.github.io
 baseurl:             ''
 paginate:            5
