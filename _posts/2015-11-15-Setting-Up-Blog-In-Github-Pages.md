@@ -9,6 +9,18 @@ post to set up blog in github pages with jekyll. As I did this on Windows 10, ha
 also information from this [blog](http://jekyll-windows.juthilo.com/1-ruby-and-devkit/) how to
 get Ruby rollin in it.
 
+### Building and running
+* To build site: bundle exec jekyll build
+* To run locally: bundle exec jekyll serve --baseurl ''
+
+### Pushing to changes to github
+* git add .
+* git commit -m "commit comment"
+* git push
+
+-----
+-----
+
 ### Built on Poole
 
 Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll
