@@ -7,16 +7,18 @@ relative_permalinks: true
 # Setup
 title:               Fire It App Blog
 tagline:             'things to remember to get fired up in the future'
-description:         'Things to remember to get fired up in the future. Theme made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+description:         'Things to remember to get fired up in the future.'
 url:
 baseurl:             'http://tavikukko.github.io'
 paginate:            5
 
 # About/contact
 author:
-  name:              Tomi Tavela
-  url:               https://twitter.com/tavikukko
-  email:
-
+  name: 'Tomi Tavela'
+  email: 'tomi.tavela[at]gmail[dot][dot]com'
+  github: tavikukko
+  twitter: tavikukko
+  linkedin: tomitavela
+  sitelogo: 'https://avatars3.githubusercontent.com/u/2223355?v=3&s=360'
 # Custom vars
 version:             1.0.0
