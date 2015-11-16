@@ -2,6 +2,8 @@
 layout: post
 title: Setting Up Blog In Github Pages With Jekyll
 comments: true
+ingress: Sharing the links and some more information how I set up this blog with Jekyll and Github Pages...
+
 ---
 
 Followed this [blog](http://www.hakshak.com/2015/01/04/learning_github.io_jekyll_and_poole/)

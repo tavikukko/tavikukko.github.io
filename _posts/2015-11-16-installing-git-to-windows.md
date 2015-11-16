@@ -2,9 +2,10 @@
 layout: post
 title: Installing Git To Windows 10
 comments: true
+ingress: This is how I installed Git to my Windows 10...
 ---
 
-To get things running on my Surface Pro 3. So here's what I did to get Git running, using images so I don't need to write anything.
+This is part of my blog series, how I got things running on my Surface Pro 3 With Windows 10. So here's what I did to get Git running, using images so I don't need to write anything.
 
 ###Download installer from [Git](https://git-for-windows.github.io)
 ![download git]({{ site.baseurl }}/public/assets/install-git.PNG)
