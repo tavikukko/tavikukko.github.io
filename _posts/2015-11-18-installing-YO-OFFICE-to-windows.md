@@ -16,3 +16,10 @@ after this just run the following command
 ![install yo office]({{ site.baseurl }}/public/assets/install-yo-office.PNG)
 
 After this is successfully executed, just follow the instructions how to get started [Office Add-ins with VS Code](https://code.visualstudio.com/Docs/runtimes/office), with VS Code.
+
+Samples, videos and tutorials, go to [dev.office.com/training](http://dev.office.com/training)
+
+####Editors to use:
+* [VS Code](https://code.visualstudio.com)
+* [Atom](https://atom.io)
+* [Sublime Text](http://www.sublimetext.com)
