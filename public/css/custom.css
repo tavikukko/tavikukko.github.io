@@ -25,3 +25,7 @@
 .sidebar-toggle{
 	position: fixed;
 }
+
+.img{
+	display: block;
+}
