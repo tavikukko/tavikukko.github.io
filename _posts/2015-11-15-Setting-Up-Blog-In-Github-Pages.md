@@ -9,7 +9,7 @@ ingress: Sharing the links and some more information how I set up this blog with
 Followed this [blog](http://www.hakshak.com/2015/01/04/learning_github.io_jekyll_and_poole/)
 post to set up blog in github pages with jekyll. As I did this on Windows 10, had to find
 also information from this [blog](http://jekyll-windows.juthilo.com/1-ruby-and-devkit/) how to
-get Ruby rollin in it.
+get Ruby rollin in it. For fine tuning Jekyll blog, read [Joshua Landes's](http://joshualande.com/jekyll-github-pages-poole/) excellent post about it.
 
 ### Building and running
 * To build site: bundle exec jekyll build
