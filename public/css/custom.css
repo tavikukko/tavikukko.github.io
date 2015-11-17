@@ -9,3 +9,15 @@
 	width: 160px;
 	margin: 0 auto;
 }
+
+.masthead {
+	position:fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	background: #fff;
+}
+
+.content {
+	margin-top: 75px;
+}
